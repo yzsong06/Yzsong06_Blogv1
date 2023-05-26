@@ -167,20 +167,19 @@ navbar:
     Home: 
       path: / 
       icon: fa-regular fa-house # can be empty
-     Archives: 
+    Archives: 
        path: /archives 
        icon: fa-regular fa-archive # can be empty
-     Status: 
+    Status: 
        path: https://status.takagi.icu
        icon: fa-regular fa-chart-bar
-     About: 
+    About: 
        icon: fa-regular fa-user
        submenus:
-         Me: /about
-         Github: https://github.com/yzsong06
-         Blog: https://takagi.icu
+         关于我: /about
+         个人Github: https://github.com/yzsong06
          Friends: /friends
-     Links: 
+    Links: 
        icon: fa-regular fa-link
        submenus:
          自建音乐解析站: https://music.takagi.icu
@@ -205,15 +204,15 @@ home:
     first_item: menu # First item in sidebar. menu, info
     announcement: # Announcement text
     links:
-      # Archives: 
-      #   path: /archives 
-      #   icon: fa-regular fa-archive # can be empty
-      # Tags: 
-      #   path: /tags 
-      #   icon: fa-regular fa-tags # can be empty
-      # Categories: 
-      #   path: /categories 
-      #   icon: fa-regular fa-folder # can be empty
+       归档: 
+         path: /archives 
+         icon: fa-regular fa-archive # can be empty
+       标签: 
+         path: /tags 
+         icon: fa-regular fa-tags # can be empty
+       分类: 
+         path: /categories 
+         icon: fa-regular fa-folder # can be empty
       # ...... # you can add more
   # Article date format
   article_date_format: auto # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.

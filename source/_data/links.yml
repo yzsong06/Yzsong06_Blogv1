@@ -1,105 +1,43 @@
-- name: EvanNotFound's Blog
-  link: http://ohevan.com/
-  description: EvanNotFound 的个人博客
-  avatar: https://evan.beee.top/avatar.png 
-
-- name: AlexWei的部落阁
-  link: http://alexwei.top/
-  description: 屑人&卷王Alexwei的博客，有时候会蚌埠住
-  avatar: https://evan.beee.top/wp-content/uploads/2022/02/Screen-Shot-2022-02-13-at-8.39.06-PM.png
-
-- name: Minecreeper的小站
-  link: https://minecreeper.top/
-  description: Minecreeper的小站，自己的后院，大家的茶馆
-  avatar: https://evan.beee.top/wp-content/uploads/2022/02/279231644986081_.pic_.jpg
-
-- name: 晨曦的小屋
-  link: https://xcx2006.github.io
-  description: 阿巴阿巴
-  avatar: https://avatars.githubusercontent.com/u/78677516?s=400&u=ecb4efb1b3a8e369aa59914106ede3bcf8cc156d&v=4
-
-- name: 繁华是客
-  link: https://blog.withkr.xyz/
-  description: 记录美好生活
-  avatar: https://blog.withkr.xyz/images/default_avatar.png
-
-- name: lalalll's blog
-  link: https://lalalll-lalalll.github.io/
-  description: 结月小站
-  avatar: https://lalalll-lalalll.github.io/images/MerpisMe.png
-
-- name: Attson的博客
-  link: https://attson.github.io/
-  description: 程序员的随时随想
-  avatar: https://attson.github.io/images/avatar.png
-
-- name: Charles's Castle
-  link: https://charles2530.github.io/
-  description: Charles的移动城堡
-  avatar: https://charles2530.github.io/image/background/logo.jpg
-
-- name: kopei's home
-  link: https://kopei.github.io
-  description: kopei的博客之家
-  avatar: https://raw.githubusercontent.com/Kopei/kopei.github.io/main/source/images/lobster.jpeg
-
-- name: RZZY's Blog
-  link: https://rzzy.fun
-  description: 日之朝矣的个人博客
-  avatar: https://s2.loli.net/2023/02/20/GRCKs6VLYBzWxur.webp
-
-- name: 这题超纲了的BLOG
-  link: https://Qx-GG.github.io
-  description: 欢迎打扰，请多指教~
-  avatar: https://Qx-GG.github.io/images/派大星.png
-
-- name: YeLuo的博客
-  link: https://www.zhcoder.com
-  description: 等风来，不如追风去
-  avatar: https://d58w.com/yeluo/i/head/eun.jpeg
-
-- name: 田野的小站
-  link: lovety.life
-  description: 生如芥子，心藏须弥
-  avatar: https://img1.imgtp.com/2023/03/07/sC0RvlAF.svg
-
-- name: JiangWen's Blog
-  link: http://blog.jiangwen.site
-  description: 文以载道
-  avatar: https://s2.loli.net/2023/03/10/MGtyxZvRhPWrwHb.png
-
-- name: HOXIANSEN's Blog
-  link: https://hoxiansen.top
-  description: 可回收垃圾
-  avatar: https://oss.hoxiansen.top/images/recycle.jpg
-
-- name: 嘿哟博客
-  link: https://www.heiu.top/
-  description: 不吵不闹，不悔
-  avatar: https://www.heiu.top/images/avatar.webp
-
-# - name: Bruce's journey
-#   link: https://shuyuej.com/blog/
-#   description: Find the courage to make life a blessing!
-#   avatar: https://shuyuej.com/blog/images/profile.jpg
-
-
-- name: 阿儒小站
-  link: https://常子儒.xyz/
-  description: 分享知识，传递价值！
-  avatar: https://c200108.oss-cn-beijing.aliyuncs.com/imgs/202304171505157.svg
-
-
-- name: 轻虹空雨的小圈
+- name: 牧丰的静安小站
   link: https://mufeng086.com
-  description: 热爱《高木同学》的技术萌新blog
-  avatar: https://pic2.imgdb.cn/item/645c58bc0d2dde577762b1fc.jpg
-
-- name: Fre5h1nd blog
-  link: https://freshwlnd.github.io/
-  description: 思考，等待，斋戒
-  avatar: https://freshwlnd.github.io/images/favicon.png
-
+  avatar: https://pic.imgdb.cn/item/63f23325f144a010074186dd.jpg
+  description: 资深高木情报员与高木厨
+- name: 南栀Space
+  description: 高木厨与入门技术玩家
+  link: https://litkg.com
+  avatar: http://q.qlogo.cn/headimg_dl?dst_uin=2360372707&spec=640&img_type=png
+- name: Decher的博客
+  description: 技术萌新与番剧鉴赏家
+  link: https://www.decher.top
+  avatar: http://q.qlogo.cn/headimg_dl?dst_uin=162224576&spec=640&img_type=png
+- name: Jack Blog
+  description: 这里还没有描述～
+  link: https://cherrysigma.com
+  avatar: https://pic.imgdb.cn/item/63e4d28a4757feff3370c1e4.jpg
+- name: Wfh132的博客
+  description: 去做吧，反正都会后悔
+  link: https://blog.wfh132.top
+  avatar: https://pic.imgdb.cn/item/62eb79e216f2c2beb1707ce6.png
+- name: 陈郑逸领域
+  description: 不可在失败的路上重蹈覆辙
+  link: https://fujianprovince.github.io/
+  avatar: https://s1.ax1x.com/2023/04/09/ppHjZaF.jpg 
+- name: 柠檬博客
+  description: 菜就是菜，怎么看都是菜
+  link: https://takagia.top
+  avatar: http://q.qlogo.cn/headimg_dl?dst_uin=2565552924&spec=640&img_type=jpg
+- name: 晓空blog
+  description: 来和我们一起来让世界变得更萌一些吧~
+  link: https://blog.moeworld.tech
+  avatar: https://img.cdn.loliloli.net/content/images/users/V3Q/av_1625277536.png 
+- name: iMaeGoo's Blog
+  description: 虹墨空间站
+  link: https://www.imaegoo.com/
+  avatar: https://cravatar.cn/avatar/05bb2aa29c9da6ef65fabd321135e7b6?s=200
+- name: Shark-Gao
+  description: Future is Now
+  link: http://manamn.space/
+  avatar: https://files.catbox.moe/fsonsb.jpg
 ## Template
 # - name:
 #   link:
