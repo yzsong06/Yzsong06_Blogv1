@@ -10,11 +10,11 @@
 # BASIC INFORMATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 info:
   # Site title
-  title: Theme Redefine
+  title: 一只鬆的博客
   # Author name
-  author: The Redefine Team
+  author: 一只鬆
   # Site URL
-  url: https://redefine.ohevan.com
+  url: https://takagi.icu
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -25,7 +25,7 @@ defaults:
   # Site logo
   logo: 
   # Site avatar
-  avatar: /images/redefine-avatar.svg
+  avatar: https://npm.elemecdn.com/yzsong06@latest/source/image/avator.webp
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -62,13 +62,13 @@ global:
     scale: false # scale effect
   # Scroll progress
   scroll_progress:
-    bar: false # progress bar
+    bar: true # progress bar
     percentage: true # percentage
   # Website counter (powered by https://busuanzi.ibruce.info/)
   busuanzi_counter:
     enable: true # enable website counter or not
     site_pv: true # site page view
-    site_uv: true # site unique visitor
+    site_uv: true # site unique visitorn
     post_pv: true # post page view
   # Whether to enable PJAX
   pjax: true
@@ -99,18 +99,18 @@ home_banner:
   # Whether to enable home banner
   enable: true
   # style of home banner
-  style: static # static or fixed
+  style: fixed # static or fixed
   # Home banner image
   image: 
     light: /images/wallhaven-wqery6-light.webp # light mode
     dark: /images/wallhaven-wqery6-dark.webp # dark mode
   # Home banner title
-  title: Theme Redefine
+  title: 一只鬆的博客
   # Home banner subtitle
   subtitle:
-    text: [] # subtitle text, array
+    text: [心有多宽，世界就有多远] # subtitle text, array
     hitokoto:  # 一言配置
-      enable: false # Whether to enable hitokoto
+      enable: true # Whether to enable hitokoto
       api: https://v1.hitokoto.cn # API URL, can add types, see https://developer.hitokoto.cn/sentence/#%E5%8F%A5%E5%AD%90%E7%B1%BB%E5%9E%8B-%E5%8F%82%E6%95%B0
     typing_speed: 100 # Typing speed (ms)
     backing_speed: 80 # Backing speed (ms)
@@ -167,23 +167,23 @@ navbar:
     Home: 
       path: / 
       icon: fa-regular fa-house # can be empty
-    # Archives: 
-    #   path: /archives 
-    #   icon: fa-regular fa-archive # can be empty
-    # Status: 
-    #   path: https://status.evanluo.top/
-    #   icon: fa-regular fa-chart-bar
-    # About: 
-    #   icon: fa-regular fa-user
-    #   submenus:
-    #     Me: /about
-    #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
-    #     Blog: https://ohevan.com
-    #     Friends: /friends
-    # Links: 
-    #   icon: fa-regular fa-link
-    #   submenus:
-    #     Link1: /link1
+     Archives: 
+       path: /archives 
+       icon: fa-regular fa-archive # can be empty
+     Status: 
+       path: https://status.takagi.icu
+       icon: fa-regular fa-chart-bar
+     About: 
+       icon: fa-regular fa-user
+       submenus:
+         Me: /about
+         Github: https://github.com/yzsong06
+         Blog: https://takagi.icu
+         Friends: /friends
+     Links: 
+       icon: fa-regular fa-link
+       submenus:
+         Link1: /
     #     Link2: /link2
     #     Link3: /link3
     # ...... # you can add more
