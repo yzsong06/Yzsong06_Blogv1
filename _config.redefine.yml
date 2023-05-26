@@ -23,7 +23,7 @@ defaults:
   # Favicon
   favicon: /images/redefine-favicon.svg
   # Site logo
-  logo: /images/redefine-favicon.svg
+  logo: 
   # Site avatar
   avatar: /images/redefine-avatar.svg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
@@ -84,13 +84,13 @@ global:
 # FONTAWESOME >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 fontawesome: # Pro v6.2.1
   # Thin version
-  thin: true
+  thin: false
   # Light version
-  light: true
+  light: false
   # Duotone version
-  duotone: true
+  duotone: false
   # Sharp Solid version
-  sharp_solid: true
+  sharp_solid: false
 # FONTAWESOME <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -99,7 +99,7 @@ home_banner:
   # Whether to enable home banner
   enable: true
   # style of home banner
-  style: fixed # static or fixed
+  style: static # static or fixed
   # Home banner image
   image: 
     light: /images/wallhaven-wqery6-light.webp # light mode
@@ -108,7 +108,7 @@ home_banner:
   title: Theme Redefine
   # Home banner subtitle
   subtitle:
-    text: ['Redefine your writing.','A simple, fast and pure theme.'] # subtitle text, array
+    text: [] # subtitle text, array
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
       api: https://v1.hitokoto.cn # API URL, can add types, see https://developer.hitokoto.cn/sentence/#%E5%8F%A5%E5%AD%90%E7%B1%BB%E5%9E%8B-%E5%8F%82%E6%95%B0
@@ -117,7 +117,7 @@ home_banner:
     starting_delay: 500 # Start delay (ms)
     backing_delay: 1500 # Backing delay (ms)
     loop: true # Whether to loop
-    smart_backspace: false # Whether to smart backspace
+    smart_backspace: true # Whether to smart backspace
   # Color of home banner text
   text_color: 
     light: "#fff" # light mode
@@ -141,12 +141,14 @@ home_banner:
   # Home banner social links
   social_links:
     # Whether to enable
-    enable: true
+    enable: false
     # Social links
     links:
-      github: https://github.com/EvanNotFound/hexo-theme-redefine # your GitHub URL
-      npm: https://www.npmjs.com/package/hexo-theme-redefine # your ZhiHu URL
-      email: contact@ohevan.com # your email
+      github:  # your GitHub URL
+      instagram: # your Instagram URL
+      zhihu:  # your ZhiHu URL
+      twitter:  # your twitter URL
+      email:  # your email
       # ...... # you can add more
 # HOME BANNER <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
@@ -165,21 +167,6 @@ navbar:
     Home: 
       path: / 
       icon: fa-regular fa-house # can be empty
-    Archives: 
-      path: /archives 
-      icon: fa-regular fa-archive
-    Docs: 
-      path: https://redefine-docs.ohevan.com
-      icon: fa-regular fa-book
-    Github:
-      icon: fa-brands fa-github
-      path: https://github.com/EvanNotFound/hexo-theme-redefine
-    Links:
-      icon: fa-regular fa-link
-      submenus:
-        About: https://ohevan.com/about
-        Blog: https://ohevan.com
-        Showcase: /showcase
     # Archives: 
     #   path: /archives 
     #   icon: fa-regular fa-archive # can be empty
@@ -216,23 +203,17 @@ home:
     enable: true # Whether to enable sidebar
     position: left # Sidebar position. left, right
     first_item: menu # First item in sidebar. menu, info
-    announcement: Redefine your writing. # Announcement text
+    announcement: # Announcement text
     links:
-      Archives: 
-        path: /archives 
-        icon: fa-regular fa-archive # can be empty
-      Tags: 
-        path: /tags 
-        icon: fa-regular fa-tags # can be empty
-      Categories: 
-        path: /categories 
-        icon: fa-regular fa-folder # can be empty
-      Shuoshuo:
-        path: /essays
-        icon: fa-regular fa-comment-dots
-      Photos:
-        path: /masonry
-        icon: fa-regular fa-images
+      # Archives: 
+      #   path: /archives 
+      #   icon: fa-regular fa-archive # can be empty
+      # Tags: 
+      #   path: /tags 
+      #   icon: fa-regular fa-tags # can be empty
+      # Categories: 
+      #   path: /categories 
+      #   icon: fa-regular fa-folder # can be empty
       # ...... # you can add more
   # Article date format
   article_date_format: auto # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
@@ -266,7 +247,7 @@ articles:
   author_label: 
     enable: true # Whether to enable
     auto: false # Whether to automatically add author label, e.g. Lv1, Lv2, Lv3...
-    list: ["MVP++"]
+    list: []
   # Code block settings
   code_block:
     copy: true # Whether to enable code block copy button
@@ -289,7 +270,7 @@ articles:
   # Article recommendation. Requires nodejieba (npm install nodejieba). Transplanted from hexo-theme-volantis.
   recommendation:
     # Whether to enable article recommendation
-    enable: true
+    enable: false
     # Article recommendation title
     title: 推荐阅读
     # Max number of articles to display
@@ -311,7 +292,7 @@ comment:
   config:
     # Waline comment system. See https://waline.js.org/
     waline:
-      serverUrl: https://redefine-waline.ohevan.com # Waline server URL. e.g. https://example.example.com
+      serverUrl: https://example.example.com # Waline server URL. e.g. https://example.example.com
       lang: zh-CN # Waline language. e.g. zh-CN, en-US. See https://waline.js.org/guide/client/i18n.html
     # Gitalk comment system. See https://github.com/gitalk/gitalk
     gitalk:
@@ -332,7 +313,7 @@ footer:
   # Show website running time
   runtime: true # show website running time or not
   # Icon in footer, write fontawesome icon code here
-  icon: '<i class="fa-solid fa-code-pull-request"></i>'
+  icon: '<i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 0.5s; color: #f54545"></i>'
   # The start time of the website, format: YYYY/MM/DD HH:mm:ss
   start: 2022/8/17 11:45:14
   # Footer message
@@ -364,35 +345,24 @@ inject:
 plugins:
   # RSS feed. Requires hexo-generator-feed (npm i hexo-generator-feed). See https://github.com/hexojs/hexo-generator-feed
   feed:
-    enable: true # Whether to enable
-  # Aplayer (fixed). See https://github.com/DIYgod/APlayer
+    enable: false # Whether to enable
+  # Aplayer. See https://github.com/DIYgod/APlayer
   aplayer:
     enable: false # Whether to enable
-    type: mini
+    type: fixed # fixed, mini
     audios:
-      - name: Something Just Like This
-        artist: Coldplay
-        url: https://files.catbox.moe/dzyo1p.mp3
-        cover: https://files.catbox.moe/phd1di.png
-      - name: Fly Away
-        artist: Tones and I
-        url: https://files.catbox.moe/qusdqv.mp3
-        cover: https://files.catbox.moe/5j1gtl.png
-      - name: September
-        artist: Earth, Wind & Fire
-        url: https://files.catbox.moe/v6m4fj.mp3
-        cover: https://files.catbox.moe/rzwise.jpg
-      - name: Imagine # audio name
-        artist: John Lennon # audio artist
-        url: https://files.catbox.moe/9nl42v.mp3 # audio url
-        cover: https://files.catbox.moe/h85s6u.jpg # audio cover
-      - name: 7 Years
-        artist: Lukas Graham
-        url: https://files.catbox.moe/te9l6r.mp3
-        cover: https://files.catbox.moe/bg4gro.jpg
+      - name: # audio name
+        artist: # audio artist
+        url: # audio url
+        cover: # audio cover url
+      # - name: # audio name
+      #   artist: # audio artist
+      #   url: # audio url
+      #   cover: # audio cover url
+      # .... you can add more audios here
   # Mermaid JS. Requires hexo-filter-mermaid-diagrams (npm i hexo-filter-mermaid-diagrams). See https://mermaid.js.org/
   mermaid:
-    enable: true # enable mermaid or not
+    enable: false # enable mermaid or not
     version: "9.3.0" # default v9.3.0
 # PLUGINS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
@@ -411,5 +381,5 @@ cdn:
   # Whether to enable CDN
   enable: false
   # CDN Provider
-  provider: unpkg # jsdelivr, unpkg, aliyun
+  provider: aliyun # aliyun, jsdelivr, unpkg, personal
 # CDN <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
