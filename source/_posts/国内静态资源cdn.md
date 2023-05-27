@@ -3,7 +3,6 @@ abbrlink: b18b1598
 categories:
   - - 建站资源
 date: '2023-03-14 20:27:54'
-cover: https://tse3-mm.cn.bing.net/th/id/OIP-C.NCQxpxuHb6VOL_9uts3LiwHaDt?pid=ImgDet&dpr=3
 tags: []
 title: 国内高速静态资源CDN汇总
 updated: 'Wed, 15 Mar 2023 02:16:57 GMT'
