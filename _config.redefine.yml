@@ -178,11 +178,11 @@ navbar:
        submenus:
          关于我: /about
          个人Github: https://github.com/yzsong06
-    Friends: /links
-       icon: fa-solid fa-link
+         个人追番: /bilibili
     Links: 
        icon: fa-regular fa-link
        submenus:
+         友情链接: /links
          自建音乐解析站: https://music.takagi.icu
          高木同学文件站: https://file.takagi.icu
          南栀高木文件站: https://takagi.litkg.com
