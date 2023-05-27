@@ -178,7 +178,8 @@ navbar:
        submenus:
          关于我: /about
          个人Github: https://github.com/yzsong06
-         Friends: /friends
+    Friends: /links
+       icon: fa-solid fa-link
     Links: 
        icon: fa-regular fa-link
        submenus:
