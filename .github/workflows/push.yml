@@ -32,7 +32,6 @@ jobs:
       - name: 安装部署时运行环境与依赖插件
         run: |
           npm i -g hexo-cli
-          npm i -g surge
           npm i hexo-deployer-git --save
           npm i
       - name: 生成站点静态文件
@@ -41,8 +40,5 @@ jobs:
       - name: 部署站点至Git仓库🏚
         run: |
           hexo deploy
-      - name: 部署站点至surge.sh
-        run: |
-          surge ./public ${{ secrets.SURGE_DOMAIN }} --token ${{ secrets.SURGE_TOKEN }}
-          
+        
           
