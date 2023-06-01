@@ -1,4 +1,4 @@
-name: 部署站点
+name: Github Pages
 
 on:
   push:
