@@ -317,7 +317,7 @@ footer:
   # The start time of the website, format: YYYY/MM/DD HH:mm:ss
   start: 2022/9/01 11:45:14
   # Footer message
-  customize: [![Github Pages](https://github.com/yzsong06/blogs/actions/workflows/push.yml/badge.svg)](https://github.com/yzsong06/blogs/actions/workflows/push.yml)
+  customize: [![Github](https://github.com/yzsong06/blogs/actions/workflows/push.yml/badge.svg)](https://github.com/yzsong06/blogs/actions/workflows/push.yml)
   # ICP record number. See https://beian.miit.gov.cn/
   icp:
     enable: false # Whether to enable
