@@ -36,9 +36,3 @@ Hi~，这里是一只鬆。
 * 个人邮箱：yzsong06@outlook.com
 * [擅长捉弄的高木同学QQ频道](https://pd.qq.com/s/cp4k08j75)（首先，你得也是个高木厨）
 * 博客评论区是个好东西（基于TwiKoo）
-
-> 捐助支持站长（每年维持域名与部分站点服务器都要成本，完全自愿，感谢支持QAQ）
-
-<img src="https://www.takagi.icu/images/qude.png"  style="zoom: 18%;" />
-
-<img src="https://www.takagi.icu/images/qrcode_20230128200109_1.png"  style="zoom: 33%;" />

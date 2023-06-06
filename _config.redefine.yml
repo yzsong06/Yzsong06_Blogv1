@@ -177,6 +177,7 @@ navbar:
        icon: fa-regular fa-user
        submenus:
          关于我: /about
+         赞助（要饭）: /pay
          个人Github: https://github.com/yzsong06
          个人追番: /bilibili
     Links: 
