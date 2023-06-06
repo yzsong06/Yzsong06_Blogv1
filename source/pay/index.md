@@ -7,9 +7,9 @@ title: 赞助
 
 > 捐助支持站长（每年维持域名与部分站点服务器都要成本，完全自愿，感谢支持QAQ）
 
-<img src="https://www.takagi.icu/images/qude.png"  style="zoom: 18%;" />
+<img decoding="Quede" src="https://www.takagi.icu/image/qude.png" width="50%">
 
-<img src="https://npm.elemecdn.com/yzsong06@latest/source/image/Pay.png"  style="zoom: 33%;" />
 
+<img decoding="WeChat" src="https://npm.elemecdn.com/yzsong06@latest/source/image/Pay.png" width="50%">
 
 
