@@ -2477,6 +2477,13 @@ hexo-abbrlink@^2.2.1:
     hexo-front-matter "^1.0.0"
     hexo-fs "^3.1.0"
 
+hexo-baidu-url-submit@^0.0.6:
+  version "0.0.6"
+  resolved "https://mirrors.tencent.com/npm/hexo-baidu-url-submit/-/hexo-baidu-url-submit-0.0.6.tgz#2e8df814ceed3420e56cc27fd503f6023256dc6d"
+  integrity sha512-0jDyIuw5B2Muqsjcf5Xxo1PNjxClPHP14FpB0amEAIr4wUdxk5zahImvOhkZwR9GrBhWKAPdjzmWS/xIMjzfrw==
+  dependencies:
+    xmlhttprequest "^1.8.0"
+
 hexo-bilibili-bangumi-anzhiyu@^1.8.2:
   version "1.8.2"
   resolved "https://registry.yarnpkg.com/hexo-bilibili-bangumi-anzhiyu/-/hexo-bilibili-bangumi-anzhiyu-1.8.2.tgz#bf3bd0f0e3548dcae5ecc73695814e6e12c68b91"
@@ -5131,6 +5138,11 @@ wrappy@1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/wrappy/-/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
   integrity sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ==
+
+xmlhttprequest@^1.8.0:
+  version "1.8.0"
+  resolved "https://mirrors.tencent.com/npm/xmlhttprequest/-/xmlhttprequest-1.8.0.tgz#67fe075c5c24fef39f9d65f5f7b7fe75171968fc"
+  integrity sha1-Z/4HXFwk/vOfnWX197f+dRcZaPw=
 
 "y18n@^3.2.1 || ^4.0.0":
   version "4.0.3"
