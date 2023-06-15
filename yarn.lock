@@ -2531,10 +2531,10 @@ hexo-tag-dplayer@^0.3.3:
     hexo-log "^0.2.0"
     hexo-util "^0.6.2"
 
-hexo-theme-redefine@^2.1.4:
-  version "2.1.4"
-  resolved "https://registry.yarnpkg.com/hexo-theme-redefine/-/hexo-theme-redefine-2.1.4.tgz#f3d616193b2fc0f4d90ce6a73823ad9c48121c09"
-  integrity sha512-V1ktprbPUFxQhY/tYNR1JYuRh/gi0b/oSVl7Yh29gwk6nQpUOFgunJpq3bSkqzI/P4izEpsS5NksN6KlL3zCfw==
+hexo-theme-redefine@^2.1.5:
+  version "2.1.5"
+  resolved "https://mirrors.tencent.com/npm/hexo-theme-redefine/-/hexo-theme-redefine-2.1.5.tgz#9fee24c61a86e79c6fdee0933e76cb041ac10605"
+  integrity sha512-H/EkUvpkW1lRtWgW0gAR3m1pBwQ8W8xbB0K86YIF5p8QyI9X66mN217tgIpt+J5SEjRxcbNhB74B9hdQRfpWQg==
 
 hexo-util@^0.6.2:
   version "0.6.3"

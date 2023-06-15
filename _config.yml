@@ -17,7 +17,7 @@ permalink_pinyin:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://yzsong06.github.io
+url: https://www.takagi.icu
 permalink: posts/:abbrlink.html
 permalink_defaults:
 pretty_urls:
