@@ -31,9 +31,8 @@ jobs:
           git config --global user.email "yzsong06@outlook.com"
       - name: 安装部署时运行环境与依赖插件
         run: |
-          pnpm i -g hexo-cli
-          pnpm i hexo-deployer-git --save
-          pnpm i
+          npm i -g hexo-cli
+          npm i
       - name: 生成站点静态文件
         run: |
           hexo clean && hexo g
