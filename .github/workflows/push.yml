@@ -38,9 +38,9 @@ jobs:
           yarn add --global hexo-cli
       - name: 生成站点静态文件
         run: |
-          hexo clean && hexo g
+          yarn clean && yarn build
       - name: 部署站点至Git仓库🏚
         run: |
-          hexo deploy
+          yarn deploy
         
           
