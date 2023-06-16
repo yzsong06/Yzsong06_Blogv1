@@ -35,7 +35,6 @@ jobs:
       - name: 安装运行环境
         run: |
           yarn install
-          yarn add --global hexo-cli
       - name: 生成站点静态文件
         run: |
           yarn clean && yarn build
