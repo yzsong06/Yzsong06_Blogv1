@@ -26,9 +26,7 @@ Hi~，这里是一只鬆。
 
 个人目前主要维护（包括参与维护）站点：
 
-[高木频道镜像盘](https://alist.takagi.icu) <br>
-[高木频道主盘](https://file.takagi.icu)  <br>
-[高木同学信息站](https://takagi3.cn) <br>
+[高木同学资料站](https://wiki.takagi3.cn) <br>
 
 #### 联系我
 

@@ -2509,6 +2509,13 @@ hexo-bunyan@^1.0.0:
     mv "~2"
     safe-json-stringify "~1"
 
+hexo-butterfly-envelope@^1.0.15:
+  version "1.0.15"
+  resolved "https://mirrors.tencent.com/npm/hexo-butterfly-envelope/-/hexo-butterfly-envelope-1.0.15.tgz#dcdba4cfe835815bf693ebcee4c90601f6568016"
+  integrity sha512-Z12iYDhrrJkARSvCIYTVRPrlipLE9o5Zeh2kozj/MbLz5tcQmfr62w+qu+hOJh2XiZucAyyoUyZq5faKP4YD4A==
+  dependencies:
+    pug "^3.0.0"
+
 hexo-cli@^2.0.0:
   version "2.0.0"
   resolved "https://mirrors.tencent.com/npm/hexo-cli/-/hexo-cli-2.0.0.tgz#485b876829951886cbfc0bd20f92b745d65bc00b"
@@ -2798,6 +2805,14 @@ hexo-tag-dplayer@^0.3.3:
     hexo-fs "^0.2.2"
     hexo-log "^0.2.0"
     hexo-util "^0.6.2"
+
+hexo-theme-anzhiyu@^1.3.1:
+  version "1.3.1"
+  resolved "https://mirrors.tencent.com/npm/hexo-theme-anzhiyu/-/hexo-theme-anzhiyu-1.3.1.tgz#ec6fdbb7bd92ddd62a02a5ec527ce2c8388d3d47"
+  integrity sha512-v/j5CskmsfcpchNMmldwHrDSVzlbG6M1japsPTPQKwDNT4A6xL7pkSvt0pMhoVT2oYQWiu4z3iWUW2nsg0zBFw==
+  dependencies:
+    hexo-renderer-pug "^3.0.0"
+    hexo-renderer-stylus "^2.1.0"
 
 hexo-theme-redefine@^2.1.5:
   version "2.1.5"
@@ -4286,7 +4301,7 @@ pug-walk@^2.0.0:
   resolved "https://registry.yarnpkg.com/pug-walk/-/pug-walk-2.0.0.tgz#417aabc29232bb4499b5b5069a2b2d2a24d5f5fe"
   integrity sha512-yYELe9Q5q9IQhuvqsZNwA5hfPkMJ8u92bQLIMcsMxf/VADjNtEYptU+inlufAFYcWdHlwNfZOEnOOQrZrcyJCQ==
 
-pug@^3.0.2:
+pug@^3.0.0, pug@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/pug/-/pug-3.0.2.tgz#f35c7107343454e43bc27ae0ff76c731b78ea535"
   integrity sha512-bp0I/hiK1D1vChHh6EfDxtndHji55XP/ZJKwsRqrz6lRia6ZC2OZbdAymlxdVFwd1L70ebrVJw4/eZ79skrIaw==
