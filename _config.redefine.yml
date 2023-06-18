@@ -173,12 +173,10 @@ navbar:
     About: 
        icon: fa-regular fa-user
        submenus:
+         留言板: /talks
          关于我: /about
          赞助我: /pay
          个人追番: /bilibili
-    说说:
-      icon: far fa-comment
-      path: /essays
     友情链接:
         icon: fal fa-user-friends
         path: /links
