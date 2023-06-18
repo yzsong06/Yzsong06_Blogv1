@@ -180,7 +180,7 @@ envelope_comment:
     - 有什么想吐槽的？
   bottom: 自动书记人偶竭诚为您服务！ #仅支持单行文本
   height: #1024px，信封划出的高度
-  path: #【可选】comments 的路径名称。默认为 comments，生成的页面为 comments/index.html
+  path: talks #【可选】comments 的路径名称。默认为 comments，生成的页面为 comments/index.html
 
 
 
