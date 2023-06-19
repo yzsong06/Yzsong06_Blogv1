@@ -7,18 +7,11 @@ title: 赞助
 
 > 捐助支持站长（每年维持域名与部分站点服务器都要成本，完全自愿，感谢支持QAQ）
 
-{% tabs Pay %}
-<!-- tab 二合一“投食”码-->
-
+### 二合一投喂码
 <img decoding="Quede" src="https://www.takagi.icu/image/qude.png" width="50%">
 
-<!-- endtab -->
- 
-<!-- tab 微信赞赏码-->
+### 微信赞赏码
 
 <img decoding="WeChat" src="https://npm.elemecdn.com/yzsong06@latest/source/image/Pay.png" width="50%">
-
-<!-- endtab -->
-{% endtabs %}
 
 

@@ -168,7 +168,7 @@ baidu_url_submit:
 # envelope_comment
 # see https://akilar.top/posts/e2d3c450/
 envelope_comment:
-  enable: true #控制开关
+  enable: false #控制开关
   custom_pic:
     cover: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/violet.jpg #信笺头部图片
     line: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/line.png #信笺底部图片
