@@ -29,17 +29,17 @@ jobs:
           ssh-keyscan github.com >> ~/.ssh/known_hosts
           git config --global user.name "yzsong06"
           git config --global user.email "yzsong06@outlook.com"
-      - name: 安装Yarn包管理器
+      - name: 安装Pnpm包管理器
         run: |
-          npm install --global yarn
+          npm install --global pnpm
       - name: 安装运行环境
         run: |
-          yarn install
-      - name: 生成站点静态文件
+          pnpm install
+      - name: 生成博客静态文件
         run: |
-          yarn clean && yarn build
-      - name: 部署站点至Git仓库🏚
+          pnpm hexo:clean && pnpm hexo:build
+      - name: 部署博客至Git仓库🏚
         run: |
-          yarn deploy
+          pnpm hexo:deploy
         
           
