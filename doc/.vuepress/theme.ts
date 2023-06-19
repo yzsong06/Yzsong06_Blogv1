@@ -48,7 +48,7 @@ export default hopeTheme({
 
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
-      
+      container: true,
               },
           
 
