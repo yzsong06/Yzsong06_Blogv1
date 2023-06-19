@@ -177,6 +177,9 @@ navbar:
          关于我: /about
          赞助我: /pay
          个人追番: /bilibili
+    文档站:
+      icon: fal fa-book
+      path: /docs
     友情链接:
         icon: fal fa-user-friends
         path: /links

@@ -5,9 +5,8 @@ export default defineUserConfig({
   base: "/",
   dest: "./source/docs",
   lang: "zh-CN",
-  title: "文档演示",
-  description: "vuepress-theme-hope 的文档演示",
-
+  title: "一只鬆的文档站",
+  
   theme,
 
   // Enable it with pwa
