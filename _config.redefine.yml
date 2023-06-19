@@ -299,7 +299,7 @@ comment:
       owner: # GitHub repository owner
     # Twikoo comment system. See https://twikoo.js.org/
     twikoo:
-      version: 1.6.10 # Twikoo version, do not modify if you dont know what it is
+      version: 1.6.16 # Twikoo version, do not modify if you dont know what it is
       server_url: https://twikoo.takagi.icu # Twikoo server URL. e.g. https://example.example.com
       region: # Twikoo region. can be empty
 # COMMENT <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
