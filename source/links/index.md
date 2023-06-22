@@ -2,6 +2,7 @@
 title: 友情链接
 date: 2022-09-15 22:19:45
 type: 'link'
+comment: true
 ---
 想和我交朋友嘛，发送电子邮件至 : [yzsong06@outlook.com](mailto:yzsong06@outlook.com)
 或直接在评论区发送信息来申请友情链接

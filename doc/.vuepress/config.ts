@@ -7,7 +7,6 @@ export default defineUserConfig({
   lang: "zh-CN",
   title: "一只鬆的文档站",
   theme,
-
   // Enable it with pwa
   // shouldPrefetch: false,
 });
