@@ -2,7 +2,7 @@
   "name": "yzsong06-site",
   "version": "2.0.0",
   "private": true,
-  "description": "Site for vuepress-theme-hope",
+  "description": "Site for Hexo or Vuepress",
   "repository": "git@github.com:yzsong06/website.git",
   "author": "yzsong06 <yzsong06@outlook.com>",
   "license": "MIT",

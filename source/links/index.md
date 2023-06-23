@@ -1,7 +1,7 @@
 ---
 title: 友情链接
 date: 2022-09-15 22:19:45
-type: 'link'
+type: links
 comment: true
 ---
 想和我交朋友嘛，发送电子邮件至 : [yzsong06@outlook.com](mailto:yzsong06@outlook.com)
@@ -16,4 +16,5 @@ comment: true
 * 站点可正常访问，且大陆地区冷加载耗时小于 10s
 * 不含有大量广告，不含有入侵式广告
 
-友链格式：站点名称，站点头像，站点描述，站点链接，站点截图（可选）
+友链格式：站点名称，站点头像，站点描述，站点链接，站点截图
+
