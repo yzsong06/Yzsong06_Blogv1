@@ -1,4 +1,4 @@
-- links_category: Takagi/高木同好 #分类名称
+- links_category: Takagi 高木同好 #分类名称
   has_thumbnail: true #是否显示网站大图
   list: 
   - name: 南栀Space
@@ -6,58 +6,47 @@
     description: 爱高木的技术玩家
     avatar: https://pic.imgdb.cn/item/63e4d28a4757feff3370c114.jpg
     thumbnail: https://pic.imgdb.cn/item/649540721ddac507cc7102af.webp
-
   - name: Jack's Blog
     link: https://cherrysigma.com/
     description: Q群机器人-梯子bot开发者
     avatar: https://pic.imgdb.cn/item/63e4d28a4757feff3370c1e4.jpg
     thumbnail: https://pic.imgdb.cn/item/649540741ddac507cc7105b8.webp
-
   - name: 糖の小站
     link: https://waterapple09.com/
     description: 届ける言葉を今は育ててる
     avatar: https://pic.imgdb.cn/item/649542ed1ddac507cc761659.png
-    thumbnail: https://pic.imgdb.cn/item/6495420b1ddac507cc743e9b.webp
-    
+    thumbnail: https://pic.imgdb.cn/item/6495420b1ddac507cc743e9b.webp  
   - name: 牧丰的静安小站
     link: https://mufeng086.com
     avatar: https://pic.imgdb.cn/item/63f23325f144a010074186dd.jpg
     description: 资深高木情报员与高木厨
     thumbnail: https://pic.imgdb.cn/item/649541821ddac507cc731a0c.webp
-
   - name: Decher的博客
     description: 技术萌新与番剧鉴赏家
     link: https://www.decher.top
     avatar: http://q.qlogo.cn/headimg_dl?dst_uin=162224576&spec=640&img_type=png
-
   - name: 陈郑逸领域
     description: 不可在失败的路上重蹈覆辙
     link: https://fujianprovince.github.io/
     avatar: https://s1.ax1x.com/2023/04/09/ppHjZaF.jpg 
-  
   - name: 柠檬博客
     description: 菜就是菜，怎么看都是菜
     link: https://takagia.top
-    avatar: http://q.qlogo.cn/headimg_dl?dst_uin=2565552924&spec=640&img_type=jpg
-  
-  - links_category: Friend/友情链接 #分类名称
+    avatar: http://q.qlogo.cn/headimg_dl?dst_uin=2565552924&spec=640&img_type=jpg 
+  - links_category: Friend 友情链接 #分类名称
     has_thumbnail: false #是否显示网站大图
-
   - name: Wfh132的博客
     description: 去做吧，反正都会后悔
     link: https://blog.wfh132.top
     avatar: https://pic.imgdb.cn/item/62eb79e216f2c2beb1707ce6.png
-
   - name: 晓空blog
     description: 来和我们一起来让世界变得更萌一些吧~
     link: https://blog.moeworld.tech
-    avatar: https://img.cdn.loliloli.net/content/images/users/V3Q/av_1625277536.png 
-  
+    avatar: https://img.cdn.loliloli.net/content/images/users/V3Q/av_1625277536.png   
   - name: iMaeGoo's Blog
     description: 虹墨空间站
     link: https://www.imaegoo.com/
     avatar: https://cravatar.cn/avatar/05bb2aa29c9da6ef65fabd321135e7b6?s=200
-  
   - name: Shark-Gao
     description: Future is Now
     link: http://manamn.space/
