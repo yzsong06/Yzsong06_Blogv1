@@ -1,4 +1,4 @@
-- links_category: Takagi 高木同好 #分类名称
+- links_category: Friend 友情链接 #分类名称
   has_thumbnail: true #是否显示网站大图
   list: 
   - name: 南栀Space
@@ -35,9 +35,6 @@
     link: https://takagia.top
     avatar: http://q.qlogo.cn/headimg_dl?dst_uin=2565552924&spec=640&img_type=jpg 
     thumbnail: https://pic.imgdb.cn/item/649592f21ddac507cc09871b.png
-  - links_category: Friend 友情链接 #分类名称
-    has_thumbnail: false #是否显示网站大图
-    list:
   - name: Wfh132的博客
     description: 去做吧，反正都会后悔
     link: https://blog.wfh132.top
