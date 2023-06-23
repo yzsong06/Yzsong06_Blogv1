@@ -29,28 +29,30 @@
     description: 不可在失败的路上重蹈覆辙
     link: https://fujianprovince.github.io/
     avatar: https://s1.ax1x.com/2023/04/09/ppHjZaF.jpg 
+    thumbnail: https://pic.imgdb.cn/item/649592f21ddac507cc098769.png
   - name: 柠檬博客
     description: 菜就是菜，怎么看都是菜
     link: https://takagia.top
     avatar: http://q.qlogo.cn/headimg_dl?dst_uin=2565552924&spec=640&img_type=jpg 
+    thumbnail: https://pic.imgdb.cn/item/649592f21ddac507cc09871b.png
   - links_category: Friend 友情链接 #分类名称
     has_thumbnail: false #是否显示网站大图
+    list:
   - name: Wfh132的博客
     description: 去做吧，反正都会后悔
     link: https://blog.wfh132.top
     avatar: https://pic.imgdb.cn/item/62eb79e216f2c2beb1707ce6.png
+    thumbnail: https://pic.imgdb.cn/item/649592f31ddac507cc0987ea.png
   - name: 晓空blog
     description: 来和我们一起来让世界变得更萌一些吧~
     link: https://blog.moeworld.tech
     avatar: https://img.cdn.loliloli.net/content/images/users/V3Q/av_1625277536.png   
+    thumbnail: https://pic.imgdb.cn/item/649592f31ddac507cc0987d1.png
   - name: iMaeGoo's Blog
     description: 虹墨空间站
     link: https://www.imaegoo.com/
     avatar: https://cravatar.cn/avatar/05bb2aa29c9da6ef65fabd321135e7b6?s=200
-  - name: Shark-Gao
-    description: Future is Now
-    link: http://manamn.space/
-    avatar: https://files.catbox.moe/fsonsb.jpg
+    thumbnail: https://pic.imgdb.cn/item/649591a01ddac507cc0765c9.png
 ## Template
 # - name:
 #   link:
