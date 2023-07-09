@@ -38,9 +38,6 @@ jobs:
       - name: 生成博客静态文件
         run: |
           pnpm hexo:clean && pnpm hexo:build
-      - name: 生成文档静态文件
-        run: |
-          pnpm docs:build
       - name: 部署站点至Git仓库🏚
         run: |
           pnpm hexo:deploy
