@@ -33,9 +33,9 @@
     url: https://takagia.top
     avatar: http://q.qlogo.cn/headimg_dl?dst_uin=2565552924&spec=640&img_type=jpg 
     screenshot: https://pic.imgdb.cn/item/649592f21ddac507cc09871b.png
-  - title: Wfh132的博客
-    description: 去做吧，反正都会后悔
-    url: https://blog.wfh132.top
+  - title: Wfh132博客
+    description: 樱，你幸福吗？是的。——凛与微笑着的樱
+    url: https://wfh132.top
     avatar: https://pic.imgdb.cn/item/62eb79e216f2c2beb1707ce6.png
     screenshot: https://pic.imgdb.cn/item/649592f31ddac507cc0987ea.png
   - title: 晓空blog
@@ -48,6 +48,19 @@
     url: https://www.imaegoo.com/
     avatar: https://cravatar.cn/avatar/05bb2aa29c9da6ef65fabd321135e7b6?s=200
     screenshot: https://pic.imgdb.cn/item/649591a01ddac507cc0765c9.png
+  - title: 博客录
+    url: https://boke.lu
+    avator: https://boke.lu/logo.png
+    description: boke.lu · 博客收录展示平台~
+  - title: X.G孤梦
+    url: https://xggm.top
+    avator: https://thirdqq.qlogo.cn/g?b=qq&nk=1401668510&s=100
+    description: 随风而动，随遇而安......
+  - title: Pdone's Blog
+    url: https://awaw.cc
+    avator: https://fastly.jsdelivr.net/gh/pdone/static/img/avatar.jpg
+    description: Only Peace & Love Here     
+  
 ## Template
 # - title:
 #   url:

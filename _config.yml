@@ -4,8 +4,7 @@
 
 # Site
 title: 一只鬆の小站
-subtitle: ''
-description: '心有多宽，世界就有多远'
+subtitle: 心有多宽，世界就有多远 | Powered By Hexo
 keywords: 一只鬆,blog,博客,takagi
 author: 一只鬆
 language: zh-CN
@@ -286,4 +285,14 @@ deploy:
   - type: git
     repository: git@github.com:yzsong06/yzsong06.github.io.git
     branch: main
-  - type: baidu_url_submitter
+  #- type: baidu_url_submitter
+
+inject:
+  head:
+    - <meta name="msapplication-TileColor" content="#2d89ef">
+    - <meta name="msapplication-config" content="/assets/favicon/browserconfig.xml">
+    - <meta name="theme-color" content="#ffffff">
+    - <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+    - <script>LA.init({id:"3F68jv7I7JpktGng",ck:"3F68jv7I7JpktGng",autoTrack:true,hashMode:true})</script>
+  script:
+    -
