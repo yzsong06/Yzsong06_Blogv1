@@ -11,11 +11,13 @@ ChatGPT这几年很火，同样也出现了大量基于此项目的新项目。�
 
 [](https://repl.it/github/yzsong06/Replit-Go-Proxy-BingAi)
 
-![Run](https://repl.it/badge/github/yzsong06/Replit-Go-Proxy-BingAi)### 绑定自定义域名
+![Run](https://repl.it/badge/github/yzsong06/Replit-Go-Proxy-BingAi)
+### 绑定自定义域名
 
 启动项目后，在弹出的“Webview”界面点击地址栏旁边的“编辑”图标，点击“Create domain link”，输入你想绑定的自定义域名后，按照提示在域名解析商添加指定CNAME与TXT解析记录。 等待解析完成后，回到Replit页面，点击下方“Link domain”即可使用。
 
-![绑定域名](https://cdn.jsdelivr.net/gh/yzsong06/Replit-Go-Proxy-BingAi/img/02.webp)### 演示站点：
+![绑定域名](https://cdn.jsdelivr.net/gh/yzsong06/Replit-Go-Proxy-BingAi/img/02.webp)
+### 演示站点：
 
 [](https://bing.vcanbb.top/)[https://bing.vcanbb.top/](https://bing.vcanbb.top/) （官方）
 [](https://bing-vercel.vcanbb.top/)[https://bing-vercel.vcanbb.top/](https://bing-vercel.vcanbb.top/) （官方Vercel）
