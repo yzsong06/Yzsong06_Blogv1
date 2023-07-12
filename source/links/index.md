@@ -24,7 +24,7 @@ comment: true
 
 ```
 站点名称: 一只鬆の小站
-站点链接: https://www.takagi.icu
+站点链接: https://blog.sotkg.cn
 站点描述: 心有多宽，世界就有多远
 站点头像: https://s2.loli.net/2023/02/20/q7Zhwm35QIGt6XA.jpg
 中国地区加速头像源：https://cravatar.cn/avatar/7a54b931dd7608d9b17b5625c31ed000?s=512&d=wavatar&r=g

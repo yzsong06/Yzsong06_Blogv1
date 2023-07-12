@@ -5,7 +5,7 @@
 # Site
 title: 一只鬆の小站
 subtitle: 心有多宽，世界就有多远 | Powered By Hexo
-keywords: 一只鬆,blog,博客,takagi
+keywords: 一只鬆,blog,博客,takagi,小站
 author: 一只鬆
 language: zh-CN
 timezone: 'Asia/Shanghai'
@@ -16,7 +16,7 @@ permalink_pinyin:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://www.takagi.icu
+url: https://blog.sotkg.cn
 permalink: posts/:abbrlink.html
 permalink_defaults:
 pretty_urls:
