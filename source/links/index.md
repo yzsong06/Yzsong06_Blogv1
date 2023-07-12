@@ -6,7 +6,9 @@ comment: true
 想和我交朋友嘛，发送电子邮件至 : [yzsong06@outlook.com](mailto:yzsong06@outlook.com)  
 
 或直接在评论区发送信息来申请友情链接
-
+{% quot 高木同好 %}
+{% sites 高木同好 %}
+{% quot 友情链接 %}
 {% sites 友情链接 %}
 
 申请友链需要贵站满足以下要求（第一条{% mark 强制 color:red %}，其他看情况）：
