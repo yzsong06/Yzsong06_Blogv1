@@ -32,6 +32,9 @@ jobs:
       - name: 安装Yarn包管理器
         run: |
           npm install --global yarn
+      - name: 安装运行环境
+        run: |
+          yarn install
       - name: 生成博客静态文件
         run: |
           yarn hexo:clean && yarn hexo:build
