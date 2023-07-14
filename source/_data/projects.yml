@@ -1,0 +1,12 @@
+replit:
+  name: Replit个人优化项目
+  title: Replit个人优化项目
+  subtitle: 'Replit个人优化项目 | Designed by 一只鬆'
+  logo:
+    src: /assets/wiki/replit/icon.svg
+    small: 112px
+    large: 240px
+  tags: 在线IDE
+  description: Replit是一个在线IDE平台，我们可以使用它来部署各种项目，完全免费运行在云端，这里列举个人改进过部署流程的项目
+  repo: yzsong06/replit
+  

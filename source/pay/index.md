@@ -1,5 +1,6 @@
 ---
 title: 赞助
+abbrlink: pay.html
 ---
 博客自2022年9月开始运行后，变动过多次，从动态博客变到了静态博客，一直都没有一个正经的赞赏页面（公开要饭Doge），所以现在就有了这个赞赏页面（别打我，真的）{% emoji blobcat ablobcatrainbow %}
 
