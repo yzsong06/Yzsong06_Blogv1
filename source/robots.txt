@@ -12,4 +12,5 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 
-Sitemap: https://takagi.icu/sitemap.xml
+Sitemap: https://www.sotkg.cn/sitemap.xml
+BaiduSitemap: https://www.sotkg.cn/baidusitemap.xml
