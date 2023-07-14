@@ -31,18 +31,18 @@ jobs:
           git config --global user.email "yzsong06@outlook.com"
       - name: 安装Pnpm包管理器
         run: |
-          npm install --global pnpm
+          npm install --global yarn
       - name: 安装运行环境
         run: |
-          pnpm install
+          yarn install
       - name: 生成博客静态文件
         run: |
-          pnpm hexo:clean && pnpm hexo:build
+          yarn hexo:clean && yarn hexo:build
       - name: 部署搜索索引
         run: |
-          pnpm hexo algolia
+          yarn hexo algolia
       - name: 部署站点至Git仓库🏚
         run: |
-          pnpm hexo:deploy
+          yarn hexo:deploy
         
           
