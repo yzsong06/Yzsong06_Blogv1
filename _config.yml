@@ -184,7 +184,7 @@ ignore:
 #百度站长自动推送
 baidu_url_submit:
   count: 16               # 提交最新的多少个链接
-  host: takagi.icu    # 在百度站长平台中添加的域名
+  host: blog.sotkg.cn    # 在百度站长平台中添加的域名
   token: vi23bVNefrWaG0el      # 秘钥
   path: baidu_urls.txt   # 文本文档的地址， 新链接会保存在此文本文档里
 
@@ -294,5 +294,6 @@ inject:
     - <meta name="theme-color" content="#ffffff">
     - <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
     - <script>LA.init({id:"3F68jv7I7JpktGng",ck:"3F68jv7I7JpktGng",autoTrack:true,hashMode:true})</script>
+    - <meta name="baidu-site-verification" content="codeva-lHOZARWDzn" />
   script:
     -
