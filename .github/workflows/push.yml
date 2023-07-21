@@ -38,9 +38,6 @@ jobs:
       - name: 生成博客静态文件
         run: |
           yarn hexo:clean && yarn hexo:build
-      - name: 部署搜索索引
-        run: |
-          yarn hexo algolia
       - name: 部署站点至Git仓库🏚
         run: |
           yarn hexo:deploy
