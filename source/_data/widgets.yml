@@ -3,7 +3,9 @@ dashboard:
   title: 站点公告
   content: |
     欢迎你来到一只鬆的新版站点！  
-    此站点原域名takagi.icu已不再用作个人站点，请注意！
+    此站点原域名takagi.icu已不再用作个人站点，请注意！  
+    目前本站最新域名是https://blog.sotkg.cn！若有本站友链的请及时更换友链！    
+    <script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/3F68jv7I7JpktGng/quote.js?theme=#1690FF,#333333,#999999,#333333,#FFFFFF,#1690FF,14&col=true&f=14&badge=icon_1&icon=center&display=0,0,1,1,1,1,1,1"></script>
 ghuser:
   layout: ghuser
   username: yzsong06 # your github login username
