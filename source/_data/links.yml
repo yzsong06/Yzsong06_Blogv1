@@ -65,7 +65,11 @@
     avator: https://fastly.jsdelivr.net/gh/pdone/static/img/avatar.jpg
     description: Only Peace & Love Here     
     screenshot: https://pic.imgdb.cn/item/64ae925a1ddac507ccb437f5.png
-  
+  - title: 萌言网
+    url: https://moey.cn/
+    avator: https://pic.imgdb.cn/item/64a7c06e1ddac507ccdfe43f.jpg
+    description: 有时候坚持要有观众存在才有意义     
+    screenshot: 
 ## Template
 # - title:
 #   url:
