@@ -10,7 +10,8 @@
     "hexo:build": "hexo generate",
     "hexo:clean": "hexo clean",
     "hexo:deploy": "hexo deploy",
-    "hexo:server": "hexo server"
+    "hexo:server": "hexo server",
+		"hexon": "cd ./hexon/server && pnpm start"
   },
   "hexo": {
     "version": "6.3.0"
